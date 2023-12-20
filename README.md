@@ -24,7 +24,7 @@
 ### 2- Install and launch the FrontEnd
 
 - Clone this repository :
-  git clone
+  git clone https://github.com/Estebann12/ArgentBank-main.git
 - Package installations after cloning, npm or yarn :
   - with npm :
     npm i (or npm install)
